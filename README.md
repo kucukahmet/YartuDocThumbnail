@@ -1,4 +1,4 @@
-# YartuDoctTumbnail
+# YartuDocTumbnail
 Convert office files to pdf or photo. using LibreOffice
 # Usage
 ```
